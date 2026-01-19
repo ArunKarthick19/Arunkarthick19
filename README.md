@@ -3,7 +3,7 @@
 Check this out -> where I experiment with code, break things, fix them (sometimes), and learn along the way lolll. 🚀
 
 ### You'll find things like:
-- Hackathon prpjects??
+- Hackathon projects🤧??
 - Deadlines
 - School work lmao
 - "I got an idea" ahhh stuff also
