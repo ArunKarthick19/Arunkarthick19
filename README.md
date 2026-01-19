@@ -1,7 +1,6 @@
 # Yoo, I'm Arun here 👋
 
-Check this lol
-Welcome to my GitHub where I experiment with code, break things, fix them (sometimes), and learn along the way lolll. 🚀
+Check this out -> where I experiment with code, break things, fix them (sometimes), and learn along the way lolll. 🚀
 
 ### You'll find things like:
 - Hackathon prpjects??
