@@ -16,17 +16,33 @@ Check this out -> where I experiment with code, break things, fix them (sometime
 RAHHHHHHH🦅🦅🦅🦅🦅💫💫
 
 
-### tECH sTACK:🦅🦅🏎️🏎️😭😭
-Languages: Python, JavaScript, TypeScript, Java, C/C++, MATLAB, HTML, CSS, Tailwind CSS,
-Frameworks & Libraries: React, React Native, Node.js, Express, Flask
-Databases: MySQL, PostgreSQL, MongoDB, Relational/Non-Relational Databases
-Tools & Platforms: Git, GitHub, Postman, Vercel, REST APIs, CI/CD
-Concepts: Data Structures & Algorithms, Object-Oriented Programming, Agile / Scrum
-Data Science & AI/ML: Exploratory Data Analysis (EDA), Data Visualization, Machine Learning Basics, NumPy, Pandas, Matplotlib
-Hardware & Embedded: Embedded C, ARM Assembly, STM32, MSP432 Microcontroller, Linux
-Other Tools: Microsoft Office (Excel, PowerPoint, Word), Cursor, Canva, Figma
+### tECH sTACK 🦅🦅🏎️🏎️😭😭
 
+**Languages**:  
+- Python, JavaScript, TypeScript, Java, C/C++, MATLAB, HTML, CSS, Tailwind CSS
 
+**Frameworks & Libraries**:  
+- React, React Native, Node.js, Express, Flask
 
-📬 **Hit me up:** arunkarthick192003@gmail.com  
+**Databases**:  
+- MySQL, PostgreSQL, MongoDB, Relational/Non-Relational Databases
+
+**Tools & Platforms**:  
+- Git, GitHub, Postman, Vercel, REST APIs, CI/CD
+
+**Concepts**:  
+- Data Structures & Algorithms, Object-Oriented Programming, Agile/Scrum
+
+**Data Science & AI/ML**:  
+- Exploratory Data Analysis (EDA), Data Visualization, Machine Learning Basics, NumPy, Pandas, Matplotlib
+
+**Hardware & Embedded**:  
+- Embedded C, ARM Assembly, STM32, MSP432 Microcontroller, Linux
+
+**Other Tools**:  
+- Microsoft Office (Excel, PowerPoint, Word), Cursor, Canva, Figma
+
+📬 **Hit me up**: [arunkarthick192003@gmail.com](mailto:arunkarthick192003@gmail.com)  
 or raise a PR 😎
+
+
