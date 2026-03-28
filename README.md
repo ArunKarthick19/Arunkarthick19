@@ -2,16 +2,14 @@
 
 Check this out -> where I experiment with code, break things, fix them (sometimes), and learn along the way lolll. 🚀
 
-### You'll find things like:
+### This repo contains:
+- Projects that worked ✔️
+- Projects that *almost* worked 😅
 - Hackathon projects🤧??
 - Deadlines
 - School work lmao
 - "I got an idea" ahhh stuff also
 - "Let me just try one more thing" ahh moments
-
-### This repo contains:
-- Projects that worked ✔️
-- Projects that *almost* worked 😅
 - Projects that worked locally and but broke in production🥀🥀
 
 
@@ -19,12 +17,14 @@ RAHHHHHHH🦅🦅🦅🦅🦅💫💫
 
 
 ### tECH sTACK:🦅🦅🏎️🏎️😭😭
-- Frontend: React, React Native, Tailwind CSS
-- Backend: Node.js, Express
-- Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Git, GitHub, Postman, VS Code, Jupyter Notebook
-- Cloud: Vercel, AWS (EC2, S3) (Learning rightnow)
-- Programming Languages: Python, Java, C, C++, JavaScript, TypeScript, MySQL, PostgreSQL
+Languages: Python, JavaScript, TypeScript, Java, C/C++, MATLAB, HTML, CSS, Tailwind CSS,
+Frameworks & Libraries: React, React Native, Node.js, Express, Flask
+Databases: MySQL, PostgreSQL, MongoDB, Relational/Non-Relational Databases
+Tools & Platforms: Git, GitHub, Postman, Vercel, REST APIs, CI/CD
+Concepts: Data Structures & Algorithms, Object-Oriented Programming, Agile / Scrum
+Data Science & AI/ML: Exploratory Data Analysis (EDA), Data Visualization, Machine Learning Basics, NumPy, Pandas, Matplotlib
+Hardware & Embedded: Embedded C, ARM Assembly, STM32, MSP432 Microcontroller, Linux
+Other Tools: Microsoft Office (Excel, PowerPoint, Word), Cursor, Canva, Figma
 
 
 
